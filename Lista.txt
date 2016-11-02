@@ -12,3 +12,4 @@ maiz
 opcional:
 tofu
 mandarinas
+zanahorias
